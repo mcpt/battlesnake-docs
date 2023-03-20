@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: MCPT Battlesnake Docs
+description: Documentation for getting ready for the MCPT Battlesnake Tournament!
 theme: just-the-docs
 
 url: https://battlesnake.mcpt.jimmyliu.dev
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Official Battlesnake Site: https://play.battlesnake.com/
