@@ -53,7 +53,7 @@ First, you will read an $$ 11 \times 11 $$ grid of characters, describing the Ba
 ......f....
 87
 ```
-The above sample board contains your snake at the top, an enemy snake on the bottom left, and two food pellets: one in the middle and one on the bottom. The `99` indicates that your snake still has 87 of 100 hunger points remaining (eating a food pellet refills your snake to 100 hunger points).
+The above sample board contains your snake at the top, an enemy snake on the bottom left, and two food pellets: one in the middle and one on the bottom. The `87` indicates that your snake still has 87 of 100 hunger points remaining (eating a food pellet refills your snake to 100 hunger points).
 
 ## Writing Output
 After calculating the move that you want your Battlesnake to make, output it using `System.out.println()`. The list of possible moves are:
